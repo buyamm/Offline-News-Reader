@@ -278,17 +278,4 @@ Nếu gặp vấn đề:
 2. Clear cache: `npx expo start -c` hoặc `npm start -- --reset-cache`
 3. Xóa node_modules và cài lại: `rm -rf node_modules && npm install`
 
----
 
-## 🎓 Ghi Chú Cho Báo Cáo
-
-Khi trình bày với thầy, nhấn mạnh:
-
-1. **Architecture**: Sử dụng React Hooks (useState, useEffect, useCallback)
-2. **State Management**: Quản lý state hiệu quả, tránh re-render không cần thiết
-3. **Network Handling**: NetInfo listener tự động phát hiện thay đổi
-4. **Caching Strategy**: AsyncStorage với timestamp tracking
-5. **User Experience**: Alert, banner, pull-to-refresh, loading states
-6. **Code Quality**: Clean code, comments rõ ràng, error handling đầy đủ
-
-Chúc bạn làm bài tốt! 🚀
