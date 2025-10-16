@@ -1,5 +1,11 @@
 # 📰 Offline News Reader - Hướng Dẫn Cài Đặt
 
+## 👨‍💻 Tác giả
+
+- **Sinh viên:** Trương Công Lý
+- **MSSV:** 22IT169
+- **Lớp:** Phát triển ứng dụng di động đa nền tảng (2)
+
 ## 🎯 Tổng Quan Dự Án
 
 Ứng dụng đọc tin tức hỗ trợ chế độ offline với đầy đủ các tính năng:
